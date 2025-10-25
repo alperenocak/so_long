@@ -5,21 +5,7 @@
 Bu proje, [42 Okulu](https://42kocaeli.com.tr/) müfredatı kapsamında geliştirilmiş bir **2D oyun projesidir**.  
 Amaç, MiniLibX kütüphanesini kullanarak basit bir oyun motoru tasarlamak, harita dosyalarını yorumlamak ve olay odaklı grafik programlamayı öğrenmektir.  
 
----
-
-## 🎮 Oyun Demosu
-
-<img src="https://github.com/user-attachments/assets/so_long-demo.gif" alt="so_long demo" width="700"/>
-
-> Yukarıdaki GIF’te oyuncunun koleksiyonları toplayarak çıkışa ulaştığı oyun akışı görülmektedir.
-
----
-
-## 🎨 Sprite Örnekleri
-
-| Karakter | Koleksiyon | Duvar | Çıkış | Zemin |
-|-----------|-------------|--------|--------|--------|
-| <img src="https://github.com/user-attachments/assets/so_long-player.png" width="80"/> | <img src="https://github.com/user-attachments/assets/so_long-collect.png" width="80"/> | <img src="https://github.com/user-attachments/assets/so_long-wall.png" width="80"/> | <img src="https://github.com/user-attachments/assets/so_long-exit.png" width="80"/> | <img src="https://github.com/user-attachments/assets/so_long-floor.png" width="80"/> |
+<img width="800" height="400" alt="so_long demo" src="https://github.com/user-attachments/assets/so_long-demo.png" />
 
 ---
 
